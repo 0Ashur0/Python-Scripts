@@ -1,2 +1,2 @@
 # Python-Scripts
-Anything that has to do with the python.
+Anything that has to do with python.
